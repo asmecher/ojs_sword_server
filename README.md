@@ -13,7 +13,7 @@ Check this repo out to `plugins/gateway`:
     git clone https://github.com/swordapp/swordappv2-php-library
     composer update
 
-Enable the plugin under Settings -> Website -> Plugins ->  Gateway Plugins
+Enable the plugin under `Settings` -> `Website` -> `Plugins` ->  `Gateway Plugins`
 
 Start OJS on `localhost:8000` using the test database.
 
